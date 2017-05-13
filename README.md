@@ -1,2 +1,2 @@
 # mailbox
-php project
+php project based on file system.
